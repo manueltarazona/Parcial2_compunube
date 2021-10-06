@@ -1,0 +1,10 @@
+secretGenerator:
+- name: manutar
+  literals:
+  - password=manutar
+resources:
+  - mysql-deployment.yaml
+  - wordpress-deployment.yaml
+resources:
+  - mysql-deployment.yaml
+  - wordpress-deployment.yaml
